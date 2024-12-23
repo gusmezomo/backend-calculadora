@@ -1,0 +1,19 @@
+[
+  {
+    "username": "gusmezomo",
+    "password": "$2b$10$dC0q7wlRT3gyqrg/GRMjDeRZ.0RxIz28qjK9w.pmVid03FAEILJ56",
+    "notas": [
+      {
+        "cadeira": "calculo",
+        "grauA": 3.2,
+        "grauB": 8.8
+      },
+      {
+        "cadeira": "redes",
+        "grauA": 7.5,
+        "grauB": 5.3,
+        "semestre": "4"
+      }
+    ]
+  }
+]
